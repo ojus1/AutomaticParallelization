@@ -12,4 +12,3 @@ Download the draft : [Draft](./draft.pdf)
 
 ## Authors
 ** Surya Kant Sahu
-** Durgesh Reddiyaar
